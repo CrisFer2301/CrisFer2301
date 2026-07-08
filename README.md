@@ -63,7 +63,7 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisFer2301&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisFer2301&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
