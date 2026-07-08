@@ -79,7 +79,7 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CrisFer2301&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-badges.glitch.me/badges?username=CrisFer2301&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
