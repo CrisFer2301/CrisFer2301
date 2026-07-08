@@ -3,7 +3,6 @@
 # Cristian Fernández
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Business+Informatics+Student;ASP.NET+Core+Developer;SQL+Server+Database+Designer;Business+Intelligence+%26+Data+Analytics;Always+Learning+Something+New+🚀" />
-
 </div>
 
 ---
