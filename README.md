@@ -79,7 +79,9 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-badges.glitch.me/badges?username=CrisFer2301&theme=tokyonight" alt="GitHub Achievements" />
+  <img src="https://github-badges.github.io/github-badges/pull-shark-default.png" width="65" alt="Pull Shark" />
+  <img src="https://github-badges.github.io/github-badges/arctic-code-vault-contributor-default.png" width="65" alt="Arctic Code Vault" />
+  <img src="https://github-badges.github.io/github-badges/yolo-default.png" width="65" alt="Yolo" />
 </p>
 
 ---
