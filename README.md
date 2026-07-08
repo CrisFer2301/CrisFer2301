@@ -54,8 +54,8 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrisFer2301&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFer2301&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CrisFer2301&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFer2301&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisFer2301&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrisFer2301&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,15 +71,15 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisFer2301&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrisFer2301&theme=tokyo-night&area=true&hide_border=true&cache_seconds=1800" alt="Activity Graph" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CrisFer2301&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-roles.vercel.app/?username=CrisFer2301&theme=tokyonight" alt="GitHub Achievements" />
 </p>
 
 ---
