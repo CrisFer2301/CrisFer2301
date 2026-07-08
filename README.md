@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/Banner.png" alt="Cristian Fernández Banner" width="100%">
-</p>
-
 <h1 align="center">Cristian Fernández</h1>
 
 <h3 align="center">
