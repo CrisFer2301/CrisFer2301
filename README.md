@@ -2,15 +2,11 @@
   <img src="assets/Banner.png" alt="Cristian Fernández Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Cristian Fernández</h1>
+<h1 align="center">Cristian Fernández</h1>
 
 <h3 align="center">
 Business Informatics Student • ASP.NET Core Developer • Data & Process Analytics Enthusiast
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;SQL+Server+Database+Designer;Business+Intelligence+Enthusiast;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -76,15 +72,6 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-badges.github.io/github-badges/pull-shark-default.png" width="65" alt="Pull Shark" />
-  <img src="https://github-badges.github.io/github-badges/arctic-code-vault-contributor-default.png" width="65" alt="Arctic Code Vault" />
-  <img src="https://github-badges.github.io/github-badges/yolo-default.png" width="65" alt="Yolo" />
-</p>
-
----
 
 # 📂 Featured Projects
 
