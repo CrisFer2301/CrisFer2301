@@ -79,7 +79,7 @@ Business Informatics Student • ASP.NET Core Developer • Data & Process Analy
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-roles.vercel.app/?username=CrisFer2301&theme=tokyonight&v=2" alt="GitHub Achievements" />
+  <img src="https://github-profile-badges.glitch.me/badges?username=CrisFer2301&theme=tokyonight" alt="GitHub Achievements" />
 </p>
 
 ---
